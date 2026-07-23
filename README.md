@@ -1,4 +1,4 @@
-# MediaGrab CLI
+# MediaGrab
 
 Universal media downloader untuk terminal — download video, audio, dan foto dari 50+ platform langsung dari Termux.
 
